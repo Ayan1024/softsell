@@ -25,7 +25,7 @@ const reasons = [
   },
 ];
 
-const WhyChooseUs = () => {
+const Whychooseus = () => {
   return (
     <section className="bg-white dark:bg-gray-900 py-16 px-6">
       <div className="max-w-6xl mx-auto text-center">
@@ -60,4 +60,4 @@ const WhyChooseUs = () => {
   );
 };
 
-export default WhyChooseUs;
+export default Whychooseus;

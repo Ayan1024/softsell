@@ -20,7 +20,7 @@ const steps = [
   },
 ];
 
-const HowItWorks = () => {
+const Howitworks = () => {
   return (
     <section className="bg-gray-100 dark:bg-gray-800 py-16 px-6">
       <div className="max-w-6xl mx-auto text-center">
@@ -53,4 +53,4 @@ const HowItWorks = () => {
   );
 };
 
-export default HowItWorks;
+export default Howitworks;

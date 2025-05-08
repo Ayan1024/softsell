@@ -3,10 +3,10 @@ import Howitworks from './components/Howitworks';
 
 import Whychooseus from "./components/WhyChooseUs";
 import Testimonials from "./components/Testimonials";
-import ContactForm from "./components/ContactForm";
+import Contactform from "./components/ContactForm";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import ChatWidget from "./components/Chatwidget";
+import Chatwidget from "./components/Chatwidget";
 
 
 
@@ -24,9 +24,9 @@ function App() {
 
       <Testimonials />
 
-      <ContactForm />
+      <Contactform />
 
-      <ChatWidget />
+      <Chatwidget />
 
       <Footer />
     </div>

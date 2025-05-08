@@ -9,7 +9,7 @@ const suggestedQuestions = [
   "How long does it take to get paid?",
 ];
 
-const ChatWidget = () => {
+const Chatwidget = () => {
   const [open, setOpen] = useState(false);
   const [chat, setChat] = useState([]);
   const [input, setInput] = useState("");
@@ -222,4 +222,4 @@ const StyledWrapper = styled.div`
 `;
 
 
-export default ChatWidget;
+export default Chatwidget;
