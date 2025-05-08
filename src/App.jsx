@@ -1,7 +1,7 @@
 import Hero from "./components/Hero";
 import Howitworks from './components/Howitworks';
 
-import Whychooseus from "./components/WhyChooseUs";
+import Whychooseus from './components/Whychooseus';
 import Testimonials from "./components/Testimonials";
 import Contactform from "./components/ContactForm";
 import Header from "./components/Header";
