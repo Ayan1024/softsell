@@ -3,7 +3,7 @@ import Howitworks from './components/Howitworks';
 
 import Whychooseus from './components/Whychooseus';
 import Testimonials from "./components/Testimonials";
-import Contactform from "./components/ContactForm";
+import Contactform from "./components/Contactform";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Chatwidget from "./components/Chatwidget";
