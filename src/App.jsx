@@ -1,7 +1,7 @@
 import Hero from "./components/Hero";
 import Howitworks from './components/Howitworks';
 
-import WhyChooseUs from "./components/WhyChooseUs";
+import Whychooseus from "./components/WhyChooseUs";
 import Testimonials from "./components/Testimonials";
 import ContactForm from "./components/ContactForm";
 import Header from "./components/Header";
@@ -20,7 +20,7 @@ function App() {
 
       <Howitworks />
 
-      <WhyChooseUs />
+      <Whychooseus />
 
       <Testimonials />
 
