@@ -7,9 +7,13 @@ const suggestedQuestions = [
   "How do I sell my license?",
   "Is this service secure?",
   "How long does it take to get paid?",
+  "Can I cancel my listing?",
+  "What are the platform fees?",
+  "How do I contact support?"
 ];
 
-const Chatwidget = () => {
+
+const ChatWidget = () => {
   const [open, setOpen] = useState(false);
   const [chat, setChat] = useState([]);
   const [input, setInput] = useState("");
@@ -222,4 +226,4 @@ const StyledWrapper = styled.div`
 `;
 
 
-export default Chatwidget;
+export default ChatWidget;
