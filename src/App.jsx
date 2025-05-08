@@ -1,5 +1,6 @@
 import Hero from "./components/Hero";
-import HowItWorks from "./components/HowItWorks";
+import Howitworks from './components/Howitworks';
+
 import WhyChooseUs from "./components/WhyChooseUs";
 import Testimonials from "./components/Testimonials";
 import ContactForm from "./components/ContactForm";
@@ -17,7 +18,7 @@ function App() {
 
       <Hero />
 
-      <HowItWorks />
+      <Howitworks />
 
       <WhyChooseUs />
 
